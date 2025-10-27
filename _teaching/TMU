@@ -1,9 +1,8 @@
 ---
 title: "Toronto Metropolitan University"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/TMU
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+\begin{itemize}
+\item MEC 514 - Applied Thermodynamics (Fall 2025)
+\end{itemize}
 ---
