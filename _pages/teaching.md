@@ -9,8 +9,8 @@ author_profile: true
 
 ### Toronto Metropolitan University
 
-MEC 514 - Applied Thermodynamics (Fall 2025)
+* MEC 514 - Applied Thermodynamics (Fall 2025)
 
 ### Northwestern University
 
-MATH 228-2 - Multiple Integration and Vector Calculus (Winter and Spring 2025)
+* MATH 228-2 - Multiple Integration and Vector Calculus (Winter & Spring 2025)
