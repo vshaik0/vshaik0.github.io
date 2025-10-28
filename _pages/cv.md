@@ -22,5 +22,5 @@ Toronto Metropolitan University (formerly Ryerson University), Toronto, ON, Cana
 
 * PhD, {{site.data.education.PhD.university}} (08/2015 - 08/2020)
 * M. Tech., {{site.data.education.MS.university}} (07/2014)
-* B. Tech., {{site.data.education.BEng.university}} (07/2014)
+* B. Tech., {{site.data.education.BTech.university}} (07/2014)
  
