@@ -5,29 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">Feel free to write to me if you cannot access the papers or have any question.
-{% endif %}
+<!-- {% if site.author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %} -->
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<!-- {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
+
+Feel free to write to me if you cannot access the papers or have any question.
+
+<ol reversed>
+
+<li>
+Durotaxis in viscoelastic fluids.<br>
+V. A. Shaik, J. Gong and G. J. Elfring. <br>
+<a href="https://doi.org/10.1103/3j7r-lwv7"><i>Physical Review Fluids (Letter)</i>, 10, L071301, 2025.</a>
+</li>
