@@ -15,13 +15,12 @@ Toronto Metropolitan University (formerly Ryerson University), Toronto, ON, Cana
 ## Positions
 
 * Assistant Professor, Toronto Metropolitan University, Toronto, Canada (08/2025 - Present)
-* Postdoc, {{site.data.education.PhD.university}} (06/2022 - 05/2025)
-* Postdoc, University of British Columbia, Vancouver, BC, Canada (11/2020 - 05/2025)
-* Researcher, {{site.data.education.PhD.university}} (04/2020 - 11/2020)
+* Visiting Assistant Professor, Northwestern University, Evanston, IL, USA (09/2024 - 07/2025)
+* Postdoc, University of British Columbia, Vancouver, BC, Canada (09/2020 - 08/2024)
 
 ## Education
 
-* PhD, {{site.data.education.PhD.university}} (04/2020)
-* MS, {{site.data.education.MS.university}} (05/2015)
-* BEng, {{site.data.education.BEng.university}} (06/2013)
+* PhD, {{site.data.education.PhD.university}} (08/2015 - 08/2020)
+* M. Tech., {{site.data.education.MS.university}} (07/2014)
+* B. Tech., {{site.data.education.BEng.university}} (07/2014)
  
