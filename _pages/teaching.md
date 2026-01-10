@@ -10,6 +10,7 @@ author_profile: true
 ### Toronto Metropolitan University
 
 * MEC 514 - Applied Thermodynamics (Fall 2025)
+* MEC 309 - Basic Thermodynamics (Winter 2026)
 
 ### Northwestern University
 
