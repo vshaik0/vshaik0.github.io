@@ -13,4 +13,4 @@ I investigate the fluid-dynamics principles governing the motion of small swimmi
 
 ## Openings
  
-If you are interested in working with me, feel free to drop me an email briefly describing yourself and your research interests.
+I have openings for Master’s and PhD students to join my research group beginning in Fall 2026. These positions involve research on the fluid dynamics of the motion of passive or active particles in inhomogeneous environments. The Master’s position is open only to domestic students (Canadian citizens or permanent residents), while the PhD position is open to applicants of all nationalities. Please feel free to reach out to me if you are interested.
