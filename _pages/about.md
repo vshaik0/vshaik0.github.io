@@ -13,4 +13,4 @@ I investigate the fluid-dynamics principles governing the motion of small swimmi
 
 ## Openings
  
-I have openings for Master’s and PhD students to join my research group beginning in Fall 2026. These positions involve research on the fluid dynamics of the motion of passive or active particles in inhomogeneous environments. The Master’s position is open only to domestic students (Canadian citizens or permanent residents), while the PhD position is open to applicants of all nationalities. Please feel free to reach out to me if you are interested.
+I have an opening for a Master's student to join my research group beginning in Fall 2026. This position involves research on the fluid dynamics of the motion of passive or active particles in inhomogeneous environments, and is open only to domestic students (Canadian citizens or permanent residents). Engineering students can apply to the MASc in Mechanical Engineering, while students in mathematics can apply to the MSc in Mathematics, which would be co-supervised with Prof. Katrin Rohlf. Please feel free to reach out if you are interested.
