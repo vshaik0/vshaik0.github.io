@@ -11,5 +11,5 @@ author_profile: true
 Reagan Okumu - Graduate student
 
 ## Alumni
-Somadina Ezenwamadu - Graduate student\\
+Somadina Ezenwamadu - Graduate student
 Robert Catedral - Undergraduate student
